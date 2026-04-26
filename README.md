@@ -164,7 +164,3 @@ This project is created for educational purposes as part of the TATA Data Visual
     - TATA Corporation   for the real world dataset and business context
     - Forage   for the virtual internship program
     - Tom Brunskill  , Co Founder of Forage, for course guidance
-
-  
-
-  Note  : Replace placeholder sections marked with `[Add your...]` with your actual findings and data.
